@@ -18,3 +18,4 @@ dist/EsperanzaPostman.AppImage
 dist/EsperanzaPostman-1.0.0.AppImage
 dist/linux-unpacked/esperanza-postman
 node_modules/electron/dist/electron
+node_models
