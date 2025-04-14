@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.esperanza.postman
+productName: EsperanzaPostman
+linux:
+  target: AppImage
+  category: Development
+files: []
+electronVersion: 28.3.3
